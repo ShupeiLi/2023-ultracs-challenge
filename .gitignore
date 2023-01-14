@@ -1,6 +1,7 @@
 # Python
 
 # Byte-compiled / optimized / DLL files
+CS61A/*/*construct_check*
 CS61A/*/*ok*
 CS61A/*/tests/
 __pycache__/
