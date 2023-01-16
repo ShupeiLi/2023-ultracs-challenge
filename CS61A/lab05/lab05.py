@@ -345,7 +345,6 @@ def add_trees(t1, t2):
         if len(branches_t1) < len(branches_t2):
             new_tree = add_branches(new_tree, branches_t2[-(len(branches_t2) - len(branches_t1)):])
         if len(branches_t1) > len(branches_t2):
-            new_tree = add_branches(new_tree, branches_t2[-(len(branches_t2) - len(branches_t1)):])
             new_tree = add_branches(new_tree, branches_t1[-(len(branches_t1) - len(branches_t2)):])
         for i in range(min(len(branches_t1), len(branches_t2))):
             new_tree_branches = branches(new_tree)
