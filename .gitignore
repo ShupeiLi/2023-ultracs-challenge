@@ -4,6 +4,8 @@
 CS61A/*/*construct_check*
 CS61A/*/*ok*
 CS61A/*/tests/
+CS61A/*/img/
+CS61A/*/assets/
 __pycache__/
 *.py[cod]
 *$py.class
