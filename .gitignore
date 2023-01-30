@@ -3,6 +3,7 @@
 # Byte-compiled / optimized / DLL files
 CS61A/*/*construct_check*
 CS61A/*/*ok*
+CS61A/*/scheme
 CS61A/*/editor/
 CS61A/*/tests/
 CS61A/*/img/
